@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- IndicatorTabBar Attribute -->
+    <declare-styleable name="IndicatorTabBar">
+        <attr name="tab_text_size" format="dimension" />
+        <attr name="tab_text_color" format="color" />
+        <attr name="tab_text_selected_color" format="color" />
+        <attr name="tab_underline_color" format="color" />
+        <attr name="tab_underline_height" format="dimension" />
+        <attr name="tab_max_column" format="integer" />
+    </declare-styleable>
+
+</resources>
