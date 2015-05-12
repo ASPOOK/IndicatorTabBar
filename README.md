@@ -5,7 +5,7 @@
 
 If you want use this view, the operation is as follows:
 
-Because the IndicatorTabBar has custom attributes, if you want use them, you must add this line in your xml file in the first component:
+Because the IndicatorTabBar has custom attributes, if you want use them, you must add your own namespace in your xml file in the first component:
 
 ```xml
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -33,8 +33,6 @@ Then, add it into your layout file, to use the IndicatorTabBar:
 ##Demo
  ![image](https://github.com/aspook/IndicatorTabBar/raw/master/images/demo.jpg)
  
-##Thanks
-* [MaterialWidget](https://github.com/keithellis/MaterialWidget)
 
 
 
